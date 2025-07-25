@@ -26,7 +26,7 @@ Example: use the `-s mcap` option to record in the MCAP format (note: this optio
 ros2 bag record -s mcap --all
 ```
 
-### Convert the bag data into CSV.
+### Convert the bag data into CSV
 
 ```bash
 mcap2csv /path/to/your_rosbag.mcap [/path/to/output_dir]
