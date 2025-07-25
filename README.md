@@ -60,3 +60,7 @@ cd mcap2csv
 ```bash
 chmod +x mcap2csv.py
 ```
+
+## Authors
+Jun Nakanishi - Meijo University, Japan
+Shunki Itadera - AIST, Japan
