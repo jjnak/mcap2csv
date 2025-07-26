@@ -64,4 +64,4 @@ chmod +x mcap2csv.py
 ## Authors
 Jun Nakanishi - Meijo University, Japan
 
-Shunki Itadera - AIST, Japan
+[Shunki Itadera](https://itadera.github.io/) - AIST, Japan 
