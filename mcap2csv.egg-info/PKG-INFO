@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: mcap2csv
+Version: 0.1.0
+Summary: Convert ROS2 MCAP bag files to CSV files, one per topic.
+Author: jjnak
+License: LICENSE
+Requires-Python: >=3.9
+License-File: LICENSE
+Requires-Dist: mcap-ros2-support
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: PySide6
+Dynamic: license-file

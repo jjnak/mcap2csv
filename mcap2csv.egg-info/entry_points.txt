@@ -1,0 +1,3 @@
+[console_scripts]
+mcap2csv = mcap2csv:main
+mcap2csv-gui = mcap2csv_gui:main

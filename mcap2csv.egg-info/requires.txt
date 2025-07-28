@@ -1,0 +1,4 @@
+mcap-ros2-support
+numpy
+pandas
+PySide6
