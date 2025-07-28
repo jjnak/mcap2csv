@@ -28,6 +28,15 @@ ros2 bag record -s mcap --all
 
 ### Convert the bag data into CSV
 
+#### GUI
+```bash
+mcap2csv-gui
+```
+![mcap2csv GUI Screenshot](./gui.png)
+
+Note: If you encounter an error like `qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.` on Ubuntu machines, please install a library by `sudo apt install libxcb-cursor0`.
+
+#### CUI
 ```bash
 mcap2csv /path/to/your_rosbag.mcap [/path/to/output_dir]
 ```
@@ -60,6 +69,8 @@ cd mcap2csv
 ```bash
 chmod +x mcap2csv.py
 ```
+
+
 
 ## Authors
 Jun Nakanishi - Meijo University, Japan
