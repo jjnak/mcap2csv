@@ -4,7 +4,7 @@
 
 ## Quick Installation
 
-Install mcap2csv module with its dependencies. Using a virtual environment (`python>=3.8`) is recommended.
+Install mcap2csv module with its dependencies. Using a virtual environment (`python>=3.9`) is recommended.
 ```bash
 pip install git+https://github.com/jjnak/mcap2csv.git
 ```
